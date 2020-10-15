@@ -8,3 +8,19 @@ D:\Tudor\Proiecte c#\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompi
 D:\Tudor\Proiecte c#\Calculator\Calculator\obj\Debug\Calculator.exe
 D:\Tudor\Proiecte c#\Calculator\Calculator\obj\Debug\Calculator.pdb
 D:\Tudor\Proiecte c#\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\User\Desktop\Calculator-C--main\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\User\Desktop\Calculator-C--main\Calculator\obj\Debug\Calculator.exe
+C:\Users\User\Desktop\Calculator-C--main\Calculator\obj\Debug\Calculator.pdb
+C:\Users\User\Desktop\Calculator-C--main\Calculator\bin\Debug\Calculator.exe
+C:\Users\User\Desktop\Calculator-C--main\Calculator\bin\Debug\Calculator.pdb
+C:\Users\User\Desktop\Calculator-C--main\Calculator\bin\Debug\mscorlib.dll
+C:\Users\User\Desktop\Calculator-C--main\Calculator\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\User\Desktop\Calculator-C--main\Calculator\bin\Debug\normidna.nlp
+C:\Users\User\Desktop\Calculator-C--main\Calculator\bin\Debug\normnfc.nlp
+C:\Users\User\Desktop\Calculator-C--main\Calculator\bin\Debug\normnfd.nlp
+C:\Users\User\Desktop\Calculator-C--main\Calculator\bin\Debug\normnfkc.nlp
+C:\Users\User\Desktop\Calculator-C--main\Calculator\bin\Debug\normnfkd.nlp
+C:\Users\User\Desktop\Calculator-C--main\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Calculator-C--main\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\User\Desktop\Calculator-C--main\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\User\Desktop\Calculator-C--main\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
